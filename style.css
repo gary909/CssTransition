@@ -1,0 +1,6 @@
+#box {
+    transition: transform 2s;
+    -webkit-transition: -webkit-transform 2s;
+    -moz-transition: -moz-transform 2s;
+    -o-transition: -o-transform 2s;
+}
